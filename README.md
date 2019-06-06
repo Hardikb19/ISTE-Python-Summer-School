@@ -1,1 +1,3 @@
-# ISTE-Python-Summer-School
+Hardik Bharunt
+
+ISTE-Python-Summer-School Project
